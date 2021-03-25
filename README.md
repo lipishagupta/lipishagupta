@@ -1,4 +1,4 @@
-### Hello World, I'm Lipisha! 👋
+### Hello World, I'm Lipisha Gupta! 👋
 
 <!--
 **lipishagupta/lipishagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
