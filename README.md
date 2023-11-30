@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about anything , happy to help :)
 - 😄 Pronouns: She/her
-- ⚡ Learning any technology that appears on my way.
 - 💫 Fun fact : Passionate about Art .
 - 🎯 Novice at Blogging.
 - 🤝 Believe in the power of networking.
